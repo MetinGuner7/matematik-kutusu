@@ -1,0 +1,18 @@
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\bin\Debug\Matematik Kutusu.exe.config
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\bin\Debug\Matematik Kutusu.exe
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\bin\Debug\Matematik Kutusu.pdb
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik Kutusu.csprojResolveAssemblyReference.cache
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.Properties.Resources.resources
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik Kutusu.csproj.GenerateResource.Cache
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik Kutusu.exe
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik Kutusu.pdb
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.Menu.resources
+c:\users\ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.Denklemler.resources
+C:\Users\Ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.BolmeBolunebilme.resources
+C:\Users\Ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.EbobEkok.resources
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.Geometri.resources
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.KokluSayilar.resources
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.Test.resources
+C:\Users\Ana\documents\visual studio 2013\Projects\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik_Kutusu.Ayarlar.resources
+C:\Users\mtngn\OneDrive\Masaüstü\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik Kutusu.exe
+C:\Users\mtngn\OneDrive\Masaüstü\Matematik Kutusu\Matematik Kutusu\obj\Debug\Matematik Kutusu.pdb
